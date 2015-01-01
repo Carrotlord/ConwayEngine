@@ -1,0 +1,19 @@
+td, th {
+    border: 1px gray solid;
+    border-collapse: collapse;
+    height: 10px;
+    width: 10px;
+}
+
+.alive {
+    background-color: black;
+}
+
+.dead {
+    background-color: white;
+}
+
+#conway_grid {
+    border: 1px gray solid;
+    border-collapse: collapse;
+}
